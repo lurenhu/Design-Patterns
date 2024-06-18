@@ -1,11 +1,8 @@
 # Prototype
 
-## 核心思想
+## 目的
 
 使你能够复制已有对象， 而又无需使代码依赖它们所属的类。
 
 ![Prototype](Prototype.png)
-
-## 主要目的
-
-让你生成完全相同的几何对象副本， 同时无需代码与对象所属类耦合
+![Prototype Registry](PrototypeRegistry.png)
